@@ -9,6 +9,8 @@
 }
 
 .main {
+  background-color: black;
+  background-image: url(background.jpg);
   background-position-y: center;
   background-size:cover;
   min-height: 100vh;
